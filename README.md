@@ -18,12 +18,18 @@ Tools: Figma, Git, Firebase, WebSockets
 
 ### 📬 Let’s Connect!  
 
-<a href="https://www.instagram.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30">
-</a>  
-<a href="https://www.tiktok.com/@b...randon?_t=ZM-8ufSc9maJtd&_r=1" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" width="30" height="30">
-</a>  
-<a href="https://www.linkedin.com/in/flex-brandon-39494128b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSBBkufigTUeuiMYvc0pDRQ%3D%3D" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30">
-</a>  
+### 📬 Let’s Connect!  
+
+<p align="center">
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="120">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@b...randon?_t=ZM-8ufSc9maJtd&_r=1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/TikTok_logo.svg" width="120">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/flex-brandon-39494128b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSBBkufigTUeuiMYvc0pDRQ%3D%3D" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="120">
+  </a>
+</p>
