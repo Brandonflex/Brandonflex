@@ -12,7 +12,7 @@ Portfolio projects showcasing UX/UI and frontend mastery 🎨
 Experimenting with storytelling through interactive web experiences 📖
 
 Right now, I'm building: 
-🚀 **A poetic blog in Angular** to document my 2024-2025 journey—filled with lessons, growth, and love.  
+🚀 **A poetic blog in Angular** to document my 2024-2025 journey, filled with lessons, growth, and love.  
 🎨 **Unique UI/UX experiences** that blend aesthetics with function, whilst still maintaining exculisve 
 💡 **Innovative projects** that challenge the norm and redefine digital storytelling.  
 
