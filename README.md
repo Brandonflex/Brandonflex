@@ -26,7 +26,7 @@ Tools: Figma, Git, Firebase, WebSockets
   </a>
   &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@b...randon?_t=ZM-8ufSc9maJtd&_r=1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/TikTok_logo.png" width="120">
+    <img src="https://images.app.goo.gl/utcrZQpy42xXBmaX8" width="120">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/flex-brandon-39494128b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSBBkufigTUeuiMYvc0pDRQ%3D%3D" target="_blank">
