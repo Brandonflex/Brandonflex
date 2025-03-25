@@ -19,7 +19,7 @@ Right now, I'm building:
 🔹 Tech Stack
 Languages: HTML, CSS, JavaScript, TypeScript
 Frameworks & Libraries: TailwindCSS, GSAP
-Tools: Figma, Git.
+Tools: Figma, Git ans Adobe.
 
 ### 📬 Let’s Connect!  
 
