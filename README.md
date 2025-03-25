@@ -2,7 +2,7 @@
 
 Brandon Flex 👨‍💻 | Frontend Developer | UX/UI Enthusiast | Poet | Creator
 
-🚀 Building sleek, interactive web experiences with HTML, CSS, JavaScript, and Angular.
+🚀 Building sleek, interactive web experiences with HTML, CSS and JavaScript.
 📌 Passionate about crafting intuitive UIs, seamless user experiences, and poetic digital storytelling.
 🎨 Blending design and code to create projects that are both functional and aesthetic.
 
