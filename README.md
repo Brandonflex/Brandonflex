@@ -6,7 +6,7 @@ Brandon Flex 👨‍💻 | Frontend Developer | UX/UI Enthusiast | Poet | Creato
 📌 Passionate about crafting intuitive UIs, seamless user experiences, and poetic digital storytelling.
 🎨 Blending design and code to create projects that are both functional and aesthetic.
 
-🔹 What I’m Working On
+🔹 What I’m Working On;
 A poetic blog documenting my 2024 journey in Angular 🌿
 Portfolio projects showcasing UX/UI and frontend mastery 🎨
 Experimenting with storytelling through interactive web experiences 📖
