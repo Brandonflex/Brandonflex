@@ -1,34 +1,40 @@
-## Hi there 👋
+# Hi, I'm Brandon 👋
+### Frontend Engineer | React & TypeScript
 
-Brandon Flex 👨‍💻 | Frontend Developer | UX/UI Enthusiast | Poet | Creator
-
-🚀 Building sleek, interactive web experiences with HTML, CSS and JavaScript.
-📌 Passionate about crafting intuitive UIs, seamless user experiences, and poetic digital storytelling.
-🎨 Blending design and code to create projects that are both functional and aesthetic.
-
-🔹 What I’m Working On;
-A poetic blog documenting my 2024 journey in Angular 🌿
-Portfolio projects showcasing UX/UI and frontend mastery 🎨
-Experimenting with storytelling through interactive web experiences 📖
-
-Right now, I'm building: 
-🚀 **A poetic blog in Angular** to document my 2024-2025 journey, filled with lessons, growth, and love.  
-🎨 **Unique UI/UX experiences** that blend aesthetics with function, whilst still maintaining exculisve 
-💡 **Innovative projects** that challenge the norm and redefine digital storytelling.  
-
-🔹 Tech Stack
-Languages: HTML, CSS, JavaScript, TypeScript
-Frameworks & Libraries: TailwindCSS, GSAP
-Tools: Figma, Git and Adobe.
-
-### 📬 Let’s Connect!  
-
-<p align="center">
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="120">
+<!-- Social Badges -->
+<p align="left">
+  <a href="[www.linkedin.com/in/flex-brandon]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/flex-brandon-39494128b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSBBkufigTUeuiMYvc0pDRQ%3D%3D" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="120">
+  <a href="[https://www.instagram.com/brand0ne.io/]" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  </a>
+  <a href="[https://www.pinterest.com/brand0neflex/]" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
   </a>
 </p>
+
+I am a frontend developer specializing in building fluid, high-performance web applications. My approach combines modern React frameworks with AI coding agents to accelerate development, backed by strict CI/CD pipelines to ensure type safety and production stability. 
+
+My primary focus is building digital experiences that are structurally sound, visually engaging, and engineered to a professional standard from day one.
+
+---
+
+## 🚀 Flagship Project
+
+### [Modern Productivity Suite](https://motif-productivity-suite-qnixzhndz-brandonflex108-4814.vercel.app/)
+A high-performance interactive workspace built with **React 19**, **TypeScript**, and **Vite**.
+- **Features:** Dynamic drag-and-drop dashboards (`@dnd-kit`), interactive analytics (`recharts`), 3D scene rendering, and type-safe schema validation.
+- **Quality Pipeline:** Production stability is enforced programmatically via a strict GitHub Actions CI pipeline running TypeScript typechecking, ESLint, and static build verification on every push.
+- [View the Source Code & Architecture](https://github.com/Brandonflex/motif-productivity-suite)
+
+---
+
+## 💻 Tech Stack & Tooling
+
+- **Core:** React, TypeScript, Vite, JavaScript (ES6+)
+- **Styling:** Tailwind CSS, Framer Motion
+- **Data & State:** Zod, React Hook Form, Zustand
+- **Workflows:** GitHub Actions (CI/CD), Git, Vercel
+- **AI Execution:** Experienced in guiding, reviewing, and architecting alongside AI agents to build faster without compromising code quality.
