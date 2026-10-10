@@ -54,10 +54,6 @@ It's a static site on an edge CDN, with no framework, bundler, or runtime depend
 - **Testing and quality:** Vitest · Testing Library · ESLint · Stylelint · `html-validate` · contrast checks
 - **Deployment:** GitHub Actions · Vercel · Cloudflare Workers · strict CSP and security headers
 
-## How I use AI
-
-I use AI to compare approaches or get a first draft. I choose what to build, review the code, and run the tests before shipping.
-
 ---
 
 <div align="center">
