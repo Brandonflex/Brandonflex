@@ -10,7 +10,7 @@
 
 </div>
 
-Hi, I'm Flex, a frontend engineer in Nairobi, Kenya. I work mostly with React and TypeScript. Recently, I built Motif, a local-first productivity app, and Bagged Up, an online shop for a Kenyan boutique. I write tests for the main user journeys and run them in CI.
+Hi, I'm Flex, a frontend engineer in Nairobi, Kenya. I work mostly with React and TypeScript.
 
 ## Recent projects
 
