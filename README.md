@@ -1,14 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2400&pause=700&color=3B82F6&center=true&vCenter=true&width=600&height=44&lines=Frontend+Engineer+%E2%80%94+React+%26+TypeScript;Local-first+apps+with+a+real+CI+gate;Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" alt="Frontend Engineer — React & TypeScript" />
-
 # Flex Brandon
 
-### Frontend Engineer — React &amp; TypeScript
-
-📍 Nairobi, Kenya &nbsp;·&nbsp; 🟢 Open to frontend work
-
-<br />
+**Frontend Engineer · React & TypeScript**<br />
+Nairobi, Kenya · Open to frontend work
 
 <a href="https://www.linkedin.com/in/flex-brandon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:brandonflex108@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email brandonflex108@gmail.com" /></a>&nbsp;
@@ -18,73 +13,57 @@
 
 </div>
 
-<br />
+Hi, I'm Flex, a frontend engineer based in Nairobi, Kenya. I build mostly with React and TypeScript. My recent work includes Motif, a productivity app that keeps your data in the browser, and Bagged Up, an online shop for a Kenyan boutique. I care about clear interactions and dependable behaviour, so I test the main user flows and run those checks in CI.
 
-**I build frontend systems that stay correct after the demo** — strict TypeScript, tests behind the
-behaviour, and a CI gate that fails the build instead of trusting it. Two products shipped, both
-deployed, both green.
+## Recent projects
 
----
+### [Motif](https://motif-productivity-suite.vercel.app/) — a local-first productivity app
 
-## 🟦 [Motif](https://motif-productivity-suite.vercel.app/) — local-first productivity suite
+Motif brings tasks, projects, focus sessions, and analytics into one workspace. You don't need an account or subscription, and there's no tracking. Your data stays in your browser unless you choose to export it.
 
-Tasks, projects, focus and analytics in one workspace. **No account, no subscription, no analytics —
-nothing leaves the browser.**
+You can view the same tasks as a list, a board with work-in-progress (WIP) limits, an Eisenhower matrix, or a seven-day schedule. A quick note like `draft proposal in 3 days #work !high ~1h` fills in the due date, project, priority, and time estimate.
+
+The app also includes no-code automations, `.ics` calendar export, and readable JSON import/export. Contrast checks run against the design tokens, so changes that make the interface harder to read fail the build.
 
 **[Live demo](https://motif-productivity-suite.vercel.app/)** · **[Source](https://github.com/Brandonflex/motif-productivity-suite)** ·
 <img src="https://github.com/Brandonflex/motif-productivity-suite/actions/workflows/ci.yml/badge.svg" alt="CI status" height="20" />
 
-`React 19` `TypeScript strict` `Vite` `Tailwind` `Vitest` `Zod` · **275 tests, 30 suites** · MIT
-
-- **Four views of one task list** — list, board with WIP limits, Eisenhower matrix, and a seven-day
-  schedule canvas with drag-and-drop.
-- **Natural-language capture** — `draft proposal in 3 days #work !high ~1h` sets the due date, project,
-  priority and estimate in one line.
-- **No-code automations**, `.ics` calendar export, and JSON you can export, import and actually read.
-- **Design tokens that fail the build** on a contrast regression, so "make it prettier" can't make it
-  unreadable.
+`React 19` `TypeScript strict` `Vite` `Tailwind` `Vitest` `Zod` · **275 tests across 30 suites** · MIT
 
 ---
 
-## 🛍️ [Bagged Up](https://baggedup-seven.vercel.app) — 50-piece boutique storefront
+### [Bagged Up](https://baggedup-seven.vercel.app) — a storefront for a Kenyan boutique
 
-A **client commission for the Kenyan market**, handed over to the business owner in October 2026.
+Bagged Up is a 50-item online shop I built for a Kenyan boutique. I handed it over to the owner in October 2026.
+
+Customers choose M-Pesa or cash on delivery, then continue to WhatsApp so the owner can confirm stock and delivery. Delivery costs are shown upfront: KSh 250 in Nairobi, KSh 400 countrywide, or free on orders over KSh 5,000. Customers also see an expected arrival date.
+
+The site is a static export hosted on an edge CDN, with no framework, bundler, or runtime dependencies. I included handover notes written for a non-technical owner.
 
 **[Live storefront](https://baggedup-seven.vercel.app)** · **[Source](https://github.com/Brandonflex/Bagged.up)** ·
 <img src="https://github.com/Brandonflex/Bagged.up/actions/workflows/ci.yml/badge.svg" alt="CI status" height="20" />
 
-`HTML` `CSS` `JavaScript` — no framework, no bundler, **zero runtime dependencies** ·
-**38 site checks + 25 behaviour tests** · 61 pages
-
-Built around how Kenya actually pays, not how Western platforms assume it does:
-
-- **M-Pesa and cash-on-delivery, not cards** — checkout hands off to WhatsApp, where stock and delivery
-  get confirmed by a human.
-- **Real pricing** — KSh 250 Nairobi, KSh 400 countrywide, free over KSh 5,000, with the actual arrival
-  date shown instead of "standard shipping".
-- **Free to run** — a static export on an edge CDN, handed over with instructions written for a
-  non-technical owner.
+`HTML` `CSS` `JavaScript` · **61 pages** · **38 site checks + 25 behaviour tests**
 
 ---
 
-## Earlier
+## Earlier projects
 
-[Self Check-out System](https://github.com/Brandonflex/Self-Check-out-system) · React 19 + React Router 7 checkout flow
-&nbsp;·&nbsp; [Password Generator](https://github.com/Brandonflex/PasswordGenerator---001) · HTML/CSS/JS
-&nbsp;·&nbsp; [Basic BMI](https://github.com/Brandonflex/Basic-BMI) · the first thing I shipped, Dec 2024
+- [Self Check-out System](https://github.com/Brandonflex/Self-Check-out-system) — a checkout flow built with React 19 and React Router 7.
+- [Password Generator](https://github.com/Brandonflex/PasswordGenerator---001) — HTML, CSS, and JavaScript.
+- [Basic BMI](https://github.com/Brandonflex/Basic-BMI) — my first shipped project, from December 2024.
 
----
+## Tools I use
 
-## Stack
+**Core** — React 19 · TypeScript (strict) · Vite · React Router 7<br />
+**UI** — Tailwind · Radix UI · token-based design systems · hand-written CSS for static sites<br />
+**Data** — Zod · React Hook Form · React Context · `localStorage` with migration paths<br />
+**Testing & quality** — Vitest · Testing Library · ESLint · Stylelint · `html-validate` · contrast checks<br />
+**Deployment** — GitHub Actions · Vercel · Cloudflare Workers · strict CSP and security headers
 
-**Core** — React 19 · TypeScript (strict) · Vite · React Router 7
-**UI** — Tailwind · Radix UI · token-based design systems · hand-written CSS for static sites
-**Data** — Zod · React Hook Form · React Context · `localStorage` with migration paths
-**Quality** — Vitest · Testing Library · ESLint · Stylelint · `html-validate` · contrast checks
-**Ship** — GitHub Actions · Vercel · Cloudflare Workers · strict CSP and security headers
+## How I use AI
 
-I use AI agents as a build multiplier, not a crutch — **they draft, the pipeline judges.** Architecture,
-contracts and every diff review stay with me; the gate above is what makes that safe.
+I use AI tools to explore ideas and draft code. I make the technical decisions, review every change, and run the project checks before shipping.
 
 ---
 
@@ -94,6 +73,6 @@ contracts and every diff review stay with me; the gate above is what makes that 
 💼 [linkedin.com/in/flex-brandon](https://www.linkedin.com/in/flex-brandon) &nbsp;·&nbsp;
 🐙 [@Brandonflex](https://github.com/Brandonflex)
 
-<sub>Send the repo, the bug or the brief.</sub>
+<sub>For frontend roles or project enquiries, email me or connect on LinkedIn.</sub>
 
 </div>
