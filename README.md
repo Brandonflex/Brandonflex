@@ -22,7 +22,7 @@
 
 I build frontend systems that **stay correct after the demo**. Strict TypeScript, a test suite behind
 every behaviour, and a CI gate that fails the build instead of trusting it. Two shipped products
-below, both live, both passing their pipelines.
+below, both deployed and passing their pipelines.
 
 **The short version:** React + TypeScript product UIs, framework-free commerce sites engineered for
 markets where card-first checkout is the wrong default, and quality enforced as a build step rather
@@ -54,8 +54,8 @@ than a habit.
 
 - **Four views of one dataset** — list, Kanban board with WIP limits, Eisenhower matrix, and a
   seven-day schedule canvas with native HTML5 drag-and-drop.
-- **Natural-language quick add** — type *"draft proposal in 3 days #work !high"* and it parses the
-  date, tag and priority.
+- **Natural-language quick add** — type *"draft proposal in 3 days #work !high ~1h"* and it parses the
+  due date, project, priority and time estimate out of one line.
 - **A planning ritual, not a to-do list** — morning planning with an over-capacity warning,
   auto-scheduled blocks inside your working hours, a pomodoro focus timer, and an evening shutdown
   that rolls unfinished work into tomorrow.
@@ -96,8 +96,8 @@ so the checkout was designed around how people here actually pay:
 
 - **M-Pesa and cash-on-delivery, not cards** — forcing a card form drives abandonment, so checkout
   routes to WhatsApp, where stock, dimensions and delivery are confirmed by a human.
-- **Real Nairobi logistics** — KSh 250 flat next-day in Nairobi, KSh 400 upcountry (2–3 days),
-  **free over KSh 5,000** with a live progress bar.
+- **Real Nairobi logistics** — KSh 250 in Nairobi &amp; environs (same-day or next-day rider),
+  KSh 400 countrywide (1–3 days by courier), **free over KSh 5,000** with a live progress bar.
 - **Concrete dates, not "standard shipping"** — the cart computes and displays the actual arrival
   date for the shopper's zone.
 - **Zero operational overhead** — a pure static export the owner hosts for free, with a handover
@@ -162,8 +162,8 @@ Security headers and CSP are set at the edge, so a future mistake can't quietly 
 
 I use AI agents as a build multiplier, not a crutch — **they draft, the pipeline judges.** Architecting
 the system, defining the contracts and reviewing every diff stays with me; the gate above is what makes
-that safe. It's how one person ships a 275-test product suite and a 61-page storefront solo, at a
-standard that would normally take a team.
+that safe. It's how one person maintains a 275-test product suite and a 61-page storefront without the
+quality slipping.
 
 ---
 
@@ -187,8 +187,7 @@ introduce them.
 | 💼 **LinkedIn** | [linkedin.com/in/flex-brandon](https://www.linkedin.com/in/flex-brandon) |
 | 🐙 **GitHub** | [@Brandonflex](https://github.com/Brandonflex) |
 
-Replies within a day. Send the repo, the bug or the brief — I'd rather look at the problem than talk
-about it.
+Send the repo, the bug or the brief — I'd rather look at the problem than talk about it.
 
 ---
 
